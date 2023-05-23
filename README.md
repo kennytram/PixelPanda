@@ -10,7 +10,7 @@
 * Search functionality -->
 
 ## Technologies
-* Frontend: React and React Native with Redux
+* Frontend: React Redux
 * Backend: Node, Express, MongoDB
 * AWS
 * Websocket
